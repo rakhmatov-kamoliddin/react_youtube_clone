@@ -1,4 +1,4 @@
-[<hr>↪ **Live preview**<hr>](https://youtube-clone-raxmatov.netlify.app/)
+[↪ **Live preview**](https://youtube-clone-raxmatov.netlify.app/)
 
 
 # Getting Started with Create React App
